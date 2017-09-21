@@ -1,9 +1,9 @@
-let hello: string;
+let strHello: string;
 
-let printMsg = function(input) {
+let printMsg = (input) => {
     console.log(input); //will display to console the message.
 };
 
-hello = 'hello world';
+strHello = 'hello world';
 
-printMsg(hello);
+printMsg(strHello);

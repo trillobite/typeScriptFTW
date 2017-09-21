@@ -1,0 +1,19 @@
+{
+  "name": "typescriptftw",
+  "version": "1.0.0",
+  "description": "learning about typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trillobite/typescriptftw.git"
+  },
+  "author": "Jesse Parnell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trillobite/typescriptftw/issues"
+  },
+  "homepage": "https://github.com/trillobite/typescriptftw#readme"
+}
